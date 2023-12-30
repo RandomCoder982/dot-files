@@ -1,0 +1,36 @@
+2023-12-22 21:16:48.066 [info] Extension host with pid 633901 started
+2023-12-22 21:16:48.094 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-22 21:16:48.151 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-12-22 21:16:48.181 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-22 21:16:48.212 [info] Eager extensions activated
+2023-12-22 21:16:48.225 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-22 21:16:48.228 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-22 21:17:08.169 [info] Extension host terminating: renderer closed the MessagePort
+2023-12-22 21:17:08.171 [info] Extension host with pid 633901 exiting with code 0
+2023-12-22 21:17:09.070 [info] Extension host with pid 634309 started
+2023-12-22 21:17:09.070 [info] Skipping acquiring lock for /home/irene/.config/Code - OSS/User/workspaceStorage/868e77cf5fd1b1304bae7844451b9fa5.
+2023-12-22 21:17:09.129 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-12-22 21:17:09.150 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-12-22 21:17:09.178 [info] Eager extensions activated
+2023-12-22 21:17:09.185 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-12-22 21:17:09.187 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-12-22 21:17:11.567 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-12-22 21:17:11.924 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-12-22 21:17:13.947 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-12-22 21:19:12.371 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-12-22 21:19:12.511 [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+2023-12-22 21:19:12.511 [error] Error: Extension 'GitHub.vscode-pull-request-github' CANNOT use API proposal: readonlyMessage.
+Its package.json#enabledApiProposals-property declares:  but NOT readonlyMessage.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+	at v (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:138:48007)
+	at v.registerFileSystemProvider (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:143:20533)
+	at Object.registerFileSystemProvider (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:158:38166)
+	at M2 (/home/irene/.vscode-oss/extensions/github.vscode-pull-request-github-0.78.1-universal/dist/extension.js:2242:8320)
+	at async I2 (/home/irene/.vscode-oss/extensions/github.vscode-pull-request-github-0.78.1-universal/dist/extension.js:2242:5740)
+	at async u.n (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:6255)
+	at async u.m (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:6218)
+	at async u.l (/usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:140:5675)
+2023-12-22 21:21:09.646 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2023-12-22 21:25:07.770 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-22 21:25:07.834 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-12-23 03:13:02.329 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'

@@ -1,0 +1,42 @@
+2023-12-22 21:17:47.320 [info] Getting Manifest... donjayamanne.githistory
+2023-12-22 21:17:47.454 [info] Installing extension: donjayamanne.githistory
+2023-12-22 21:17:49.711 [info] Extension signature verification is not done: donjayamanne.githistory
+2023-12-22 21:17:49.774 [info] Extracted extension to file:///home/irene/.vscode-oss/extensions/donjayamanne.githistory-0.6.20-universal: donjayamanne.githistory
+2023-12-22 21:17:49.780 [info] Renamed to /home/irene/.vscode-oss/extensions/donjayamanne.githistory-0.6.20-universal
+2023-12-22 21:17:49.782 [info] Extracting extension completed. donjayamanne.githistory
+2023-12-22 21:17:49.793 [info] Extension installed successfully: donjayamanne.githistory
+2023-12-22 21:17:49.869 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/irene/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/irene/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2023-12-22 21:19:09.631 [info] Getting Manifest... github.vscode-pull-request-github
+2023-12-22 21:19:09.728 [info] Installing extension: github.vscode-pull-request-github
+2023-12-22 21:19:12.160 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2023-12-22 21:19:12.220 [info] Extracted extension to file:///home/irene/.vscode-oss/extensions/github.vscode-pull-request-github-0.78.1-universal: github.vscode-pull-request-github
+2023-12-22 21:19:12.227 [info] Renamed to /home/irene/.vscode-oss/extensions/github.vscode-pull-request-github-0.78.1-universal
+2023-12-22 21:19:12.233 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-12-22 21:19:12.245 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-12-22 21:19:12.322 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/irene/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/irene/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)
+2023-12-22 21:19:14.145 [info] Getting Manifest... ms-python.python
+2023-12-22 21:19:14.746 [info] Installing extension: ms-python.python
+2023-12-22 21:19:39.448 [info] Extension signature verification is not done: ms-python.python
+2023-12-22 21:19:41.443 [info] Extracted extension to file:///home/irene/.vscode-oss/extensions/ms-python.python-2023.20.0-universal: ms-python.python
+2023-12-22 21:19:41.456 [info] Renamed to /home/irene/.vscode-oss/extensions/ms-python.python-2023.20.0-universal
+2023-12-22 21:19:41.460 [info] Extracting extension completed. ms-python.python
+2023-12-22 21:19:41.473 [info] Extension installed successfully: ms-python.python
+2023-12-22 21:19:41.547 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/irene/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/irene/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30056)
+    at a (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:30170)
+    at s.fb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:36175)
+    at s.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:28621)
+    at async E.stat (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:15732)
+    at async Y.tb (/usr/lib/code/out/vs/code/node/sharedProcess/sharedProcessMain.js:100:111319)

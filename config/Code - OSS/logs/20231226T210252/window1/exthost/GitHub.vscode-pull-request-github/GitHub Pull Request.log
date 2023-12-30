@@ -1,0 +1,9 @@
+2023-12-26 21:02:56.132 [warning] /home/irene/.ssh/config: ENOENT: no such file or directory, open '/home/irene/.ssh/config'
+2023-12-26 21:02:56.132 [info] Activation> Extension version: 0.78.1
+2023-12-26 21:02:56.157 [info] Looking for git repository
+2023-12-26 21:02:56.157 [info] Found 0 repositories during activation
+2023-12-26 21:03:21.162 [warning] /home/irene/.ssh/config: ENOENT: no such file or directory, open '/home/irene/.ssh/config'
+2023-12-26 21:03:21.162 [info] Activation> Extension version: 0.78.1
+2023-12-26 21:03:21.430 [info] Looking for git repository
+2023-12-26 21:03:21.430 [info] Found 0 repositories during activation
+2023-12-26 21:03:21.431 [info] Registering git provider

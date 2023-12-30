@@ -1,9 +1,0 @@
-2023/12/18-23:37:38.762 51f0 Reusing MANIFEST /home/irene/.config/WebCord/Local Storage/leveldb/MANIFEST-000001
-2023/12/18-23:37:38.763 51f0 Recovering log #3
-2023/12/18-23:37:38.763 51f0 Reusing old log /home/irene/.config/WebCord/Local Storage/leveldb/000003.log 
-2023/12/18-23:40:40.989 51f2 Level-0 table #5: started
-2023/12/18-23:40:40.992 51f2 Level-0 table #5: 20988 bytes OK
-2023/12/18-23:40:40.994 51f2 Delete type=0 #3
-2023/12/19-00:13:58.553 51f2 Level-0 table #7: started
-2023/12/19-00:13:58.557 51f2 Level-0 table #7: 35368 bytes OK
-2023/12/19-00:13:58.559 51f2 Delete type=0 #4
